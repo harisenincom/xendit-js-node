@@ -57,3 +57,10 @@ typings/
 # dotenv environment variables file
 .env
 
+/.idea/.gitignore
+/.idea/jsLinters/jshint.xml
+/.idea/jsLibraryMappings.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
+/.idea/xendit-js-node.iml
