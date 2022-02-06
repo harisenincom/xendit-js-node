@@ -1,18 +1,10 @@
 {
-  "name": "xendit-js-node",
-  "version": "1.1.1",
+  "name": "@harisenin/xendit-js-node",
+  "version": "1.1.0",
   "description": "JS client library for tokenizing credit cards as node modules",
   "main": "./src/xendit.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/xendit/xendit-js-node"
-  },
-  "author": "0505gonzalez",
+  "author": "Muhammad Irfan",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/xendit/xendit-js-node/issues"
-  },
-  "homepage": "https://github.com/xendit/xendit-js-node",
   "devDependencies": {
     "assert-plus": "^1.0.0",
     "async": "^2.1.4",
@@ -26,5 +18,19 @@
   },
   "dependencies": {
     "base-64": "~0.1.0"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harisenincom/xendit-js-node.git"
+  },
+  "keywords": [
+    "xendit-js"
+  ],
+  "bugs": {
+    "url": "https://github.com/harisenincom/xendit-js-node/issues"
+  },
+  "homepage": "https://github.com/harisenincom/xendit-js-node#readme"
 }
